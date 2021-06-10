@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "path": "osu_karaoke.sln",
+    "projects": [
+      "osu_karaoke.Game\\osu_karaoke.Game.csproj",
+      "osu_karaoke.Resources\\osu_karaoke.Resources.csproj",
+      "osu_karaoke.iOS\\osu_karaoke.iOS.csproj"
+    ]
+  }
+}

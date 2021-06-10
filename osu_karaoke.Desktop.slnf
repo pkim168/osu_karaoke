@@ -1,0 +1,11 @@
+﻿{
+  "solution": {
+    "path": "osu_karaoke.sln",
+    "projects": [
+      "osu_karaoke.Desktop\\osu_karaoke.Desktop.csproj",
+      "osu_karaoke.Game\\osu_karaoke.Game.csproj",
+      "osu_karaoke.Game.Tests\\osu_karaoke.Game.Tests.csproj",
+      "osu_karaoke.Resources\\osu_karaoke.Resources.csproj"
+    ]
+  }
+}
